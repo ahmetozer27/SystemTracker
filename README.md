@@ -21,6 +21,12 @@ A simple yet powerful tool to monitor running processes and view event logs on W
 - `pywin32` package (for event log access)
 - Windows Operating System
 
+## Screenshot
+
+Here is a screenshot of the application:
+
+![Application Screenshot](screenshots/screenshot_1.png)
+
 ## Download
 
 You can download the precompiled `.exe` file from the following link:
