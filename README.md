@@ -25,7 +25,7 @@ A simple yet powerful tool to monitor running processes and view event logs on W
 
 You can download the precompiled `.exe` file from the following link:
 
-[Download Modern Process Viewer (.exe)]([https://github.com/ahmetozer27/SystemTracker/tree/main/exe_format/v1.0](https://github.com/ahmetozer27/SystemTracker/archive/refs/tags/v1.0.zip))
+[Download Modern Process Viewer (.exe)]((https://github.com/ahmetozer27/SystemTracker/archive/refs/tags/v1.0.zip))
 
 ## Installation
 
