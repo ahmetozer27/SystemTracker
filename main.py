@@ -54,6 +54,7 @@ def threaded_event_log():
     threading.Thread(target=read_event_log, daemon=True).start()
 
 
+## GÜVENİLİR İŞLEM LİSTESİ
 trusted_process_list = [
     "csrss.exe",
     "WidgetService.exe",
@@ -160,6 +161,7 @@ trusted_process_list = [
     "dwm.exe",
     "Taskmgr.exe",
     "backgroundTaskHost.exe",
+    "Discord.exe"
 ]
 
 
