@@ -21,6 +21,12 @@ A simple yet powerful tool to monitor running processes and view event logs on W
 - `pywin32` package (for event log access)
 - Windows Operating System
 
+## Download
+
+You can download the precompiled `.exe` file from the following link:
+
+[Download Modern Process Viewer (.exe)](https://github.com/yourusername/yourrepository/releases/download/v1.0/ModernProcessViewer.exe)
+
 ## Installation
 
 ### Step 1: Install Dependencies
@@ -29,3 +35,8 @@ To get started, first, ensure you have Python installed. Then, install the requi
 
 ```bash
 pip install psutil pywin32
+```
+
+
+
+
