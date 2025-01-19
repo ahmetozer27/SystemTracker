@@ -27,7 +27,14 @@ You can download the precompiled `.exe` file from the following link:
 
 [Download Modern Process Viewer (.exe)](https://github.com/ahmetozer27/SystemTracker/archive/refs/tags/v1.0.zip)
 
-## Installation
+Simply unzip the file, and you'll find the executable ready to run.
+
+## Usage
+
+1. Extract the contents of the ZIP file.
+2. Run the `.exe` file to start monitoring your system processes.
+
+## Installation for Python
 
 ### Step 1: Install Dependencies
 
